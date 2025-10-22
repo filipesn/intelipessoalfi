@@ -1,0 +1,1 @@
+Como os gráficos mostram, na primeira leitura, 400ms depois que ligado, o capacitor já estava 100% carregado. Isso ocorreu por eu usar um capacitador de 1k ohm invés de 1M ohm, porque eu só não tinha um capacitador melhor. 
