@@ -1,0 +1,3 @@
+1.Tensão no Resistor vs. Tempo: Este gráfico mostra a tensão no resistor diminuindo ao longo do tempo, começando em 5V e caindo em direção a 0V.
+2.Tensão no Capacitor vs. Tempo (Carga): Este é o gráfico clássico da carga de um capacitor. Ele mostra a tensão aumentando de 0V em direção a 5V. Eu também adicionei linhas pontilhadas indicando a constante de tempo tau(o tempo para atingir 63.2% da tensão máxima).
+3.Curvas de Carga do Circuito RC (Ambos): Este gráfico plota ambas as tensões juntas. Você pode ver claramente como a tensão "passa" do resistor para o capacitor. A soma das duas curvas em qualquer ponto no tempo é sempre 5V.
