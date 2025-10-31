@@ -1,0 +1,3 @@
+PARTE: RESISTOR LED1 LED2 LED3 ARDUINO
+ESPECIFICACAO: 346.5 Ω VERMELHO AZUL VERDE ARDUINO UNO
+Foi providenciado um guia de montagem no tinker cad, apenas seguir o cabamento.
